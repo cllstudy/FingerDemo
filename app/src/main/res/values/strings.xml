@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FingerDemo</string>
+    <string name="finger_not_match">指纹不匹配，请重试！</string>
+    <string name="close_finger_input_pwd">您已关闭指纹解锁,请输入密码登录</string>
+</resources>
